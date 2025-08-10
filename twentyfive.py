@@ -7,7 +7,7 @@ import subprocess
 import sounddevice as sd
 import pyautogui
 from vosk import Model, KaldiRecognizer
-
+#vosku voskov
 # Paths
 MODEL_PATH = "vosk-model-small-en-us-0.15"
 

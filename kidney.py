@@ -3,6 +3,7 @@ import mediapipe as mp
 import time
 import os
 import subprocess
+#hola migos
 
 # Initialize MediaPipe
 mp_hands = mp.solutions.hands
